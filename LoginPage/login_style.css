@@ -6,9 +6,13 @@
 
 body {
     font-family: Arial, sans-serif;
-    background: #09baeb;
+    background-image: url("/Users/naveen/Practice/git-practice/LoginPage/images/Screenshot 2026-08-14 at 1.11.19 PM.png");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+
     display: flex;
-    justify-content: center;
+    justify-content: left;
     align-items: center;
     height: 100vh;
 }
